@@ -55,7 +55,7 @@
               (label :class "symbol" :text "󰤨")
             )
             (tooltip 
-              (label :text "?%")
+              (label :text "Capacity: ${EWW_BATTERY.BAT0.capacity}%")
               (label :class "symbol" :text "${BAT0}")
             )
             (tooltip 

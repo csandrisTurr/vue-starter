@@ -7,8 +7,11 @@ super + Return
 	st
 
 # program launcher
-super + r
+super + space
 	dmenu_run
+
+super + shift + l
+	xtrlock
 
 # make sxhkd reload its configuration files:
 super + Escape
